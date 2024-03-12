@@ -14,6 +14,10 @@ The Resume Generator is a command-line tool designed to simplify the process of 
 
 ## Installation
 
-$ git clone https://github.com/itsspyner/ResumeGenerator_with_different_links.git
-$ cd ResumeGenerator_with_different_links
-$ npm install
+- git clone https://github.com/itsspyner/ResumeGenerator_with_different_links.git
+- cd ResumeGenerator_with_different_links
+- npm install
+
+## Implementation of the program 
+
+-node resumeGenerator.js <url_to_json_file or path_to_json_file> <name_of_the_output_file.pdf>
