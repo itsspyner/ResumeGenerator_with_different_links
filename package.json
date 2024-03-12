@@ -1,0 +1,8 @@
+{
+  "main": "resumeGemerator.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "pdfkit": "^0.14.0"
+  }
+}
