@@ -10,7 +10,7 @@ The Resume Generator is a command-line tool designed to simplify the process of 
 ## Features
 
 - Easy-to-use command-line interface.
-- Support for file formats PDF
+- Support for file format PDF
 
 ## Installation
 
